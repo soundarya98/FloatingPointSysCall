@@ -20,11 +20,11 @@ make
 
 **Results**
 
-![P1]()
+![P1](https://github.com/soundarya98/FloatingPointSysCall/blob/master/images/P1.png)
 
-![P2]()
+![P2](https://github.com/soundarya98/FloatingPointSysCall/blob/master/images/P2.png)
 
-![P3]()
+![P3](https://github.com/soundarya98/FloatingPointSysCall/blob/master/images/P3.png)
 
-![P4]()
+![P4](https://github.com/soundarya98/FloatingPointSysCall/blob/master/images/P4.png)
 
