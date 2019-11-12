@@ -1,8 +1,12 @@
 # FloatingPointSysCall
 
+This is an implementation of addition of 2 floating point numbers using integer operations, by making a system call in Linux.
+
 **General Instructions**
 In the location in which add2Float.c and addWrapper.c is present, run the following commands:
+
 make 
+
 ./add2Floats
 
 **Files added and modified**
@@ -15,8 +19,12 @@ make
 
 
 **Results**
+
 ![P1]()
+
 ![P2]()
+
 ![P3]()
+
 ![P4]()
 
